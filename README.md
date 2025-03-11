@@ -88,7 +88,7 @@ In today's fast-paced world, educators are burdened with numerous tasks ranging 
 </div>
 <br>
 
-## Latest Version - v2.0.0
+## Latest Version - v1.0.0
 <table>
   <tr>
     <td>
