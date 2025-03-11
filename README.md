@@ -37,7 +37,6 @@ In today's fast-paced world, educators are burdened with numerous tasks ranging 
   - Eliminates manual roll calls and saves valuable class time
 - **Attendance Analytics**:
   - Detailed historical attendance reports with date filtering
-  - Visualization of attendance patterns and trends for each student
 
 ### 🤖 AI-Powered Tools
 - **PDF Generator**:
