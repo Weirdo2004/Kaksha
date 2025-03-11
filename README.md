@@ -1,4 +1,4 @@
-# 📚 Kaksha: Revolutionizing Classroom Management 📚
+![WhatsApp Image 2025-03-11 at 18 32 33_6bc0f75b](https://github.com/user-attachments/assets/9ffb3158-9eb3-4ae8-a9af-06ad516178a9)# 📚 Kaksha: Revolutionizing Classroom Management 📚
 
 **Effortlessly Manage Classes and Reduce Teachers' Workload**
 
@@ -12,7 +12,7 @@ Kaksha is an all-in-one classroom management solution designed to significantly 
 
 In today's fast-paced world, educators are burdened with numerous tasks ranging from managing assignments and attendance to providing personalized feedback. Kaksha addresses these challenges by integrating advanced technologies like AI, Bluetooth-based attendance systems, and automated grading, making teaching more focused, efficient, and less stressful.
 <div align="center">
-  <img src="https://i.imgur.com/CZvbxMW.png" alt="Kaksha Logo" width="310">
+  <img src="file:///C:/Users/atman/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/TempState/6E57A30D42233829BB65AAB0262E463B/WhatsApp%20Image%202025-03-11%20at%2018.32.33_f4ff7108.jpg" alt="Kaksha Logo" width="310">
 </div>
 ## ✨ Key Features
 
