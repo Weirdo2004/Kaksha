@@ -24,7 +24,7 @@ In today's fast-paced world, educators are burdened with numerous tasks ranging 
 - **Upload and Submit Assignments**: Teachers can upload assignments with due dates, and students can submit their work directly through the app
 - **Automated Grading with AI**:
   - Instant evaluation using Google Vision API and Gemini Models with a single click
-  - Our own Fine Tuned Gemini Model is trained to give detailed feedback and preliminary scores based on content quality and relevance
+  - Our own **Fine Tuned Gemini Model** is trained to give detailed feedback and preliminary scores based on content quality and relevance
   - Editable scores for teacher review before publishing
   - Comprehensive feedback for students to identify areas for improvement
 
