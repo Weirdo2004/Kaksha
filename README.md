@@ -1,4 +1,4 @@
-📚 Kaksha: Revolutionizing Classroom Management 📚
+# 📚 Kaksha: Revolutionizing Classroom Management 📚
 
 **Effortlessly Manage Classes and Reduce Teachers' Workload**
 
@@ -14,6 +14,7 @@ In today's fast-paced world, educators are burdened with numerous tasks ranging 
 <div align="center">
   <img src="https://i.imgur.com/CZvbxMW.png" alt="Kaksha Logo" width="310">
 </div>
+
 ## ✨ Key Features
 
 ### 🏫 Class Management
@@ -60,12 +61,12 @@ In today's fast-paced world, educators are burdened with numerous tasks ranging 
         <img src="https://imgur.com/wjxaanc.gif" alt="Class Features" width="250"><br>
         <b>Class Features</b>
       </td>
-      <td align="center">
-        <img src="https://imgur.com/uKiF7kG.gif" alt="Take Attendance" width="250"><br>
+     <td align="center">
+        <img src="https://imgur.com/uKiF7kG.gif" alt="Student Class View" width="250"><br>
         <b>Take Attendance</b>
       </td>
        <td align="center">
-        <img src="https://imgur.com/wxkLS6L.gif" alt="Pdf and question paper generation" width="250"><br>
+        <img src="https://imgur.com/n3BujsJ.gif" alt="Pdf and question paper generation" width="250"><br>
         <b>Pdf and question paper generation</b>
       </td>
     </tr>
@@ -76,9 +77,13 @@ In today's fast-paced world, educators are burdened with numerous tasks ranging 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://imgur.com/uKiF7kG.gif" alt="Student Class View" width="250"><br>
-        <b>Class Features</b>
+       <td align="center">
+        <img src="https://imgur.com/UDuvow5.gif" alt="Give Attendance" width="250"><br>
+        <b>Give Attendance</b>
+      </td>
+       <td align="center">
+        <img src="https://imgur.com/fQLFPdy.gif" alt="Submit Assignment" width="250"><br>
+        <b>Submit Assignment</b>
       </td>
     </tr>
   </table>
@@ -121,10 +126,10 @@ In today's fast-paced world, educators are burdened with numerous tasks ranging 
 <hr>
 
 ### 👥 Team
-1. Laksh R Jain
-2. Atman Pattanaik
-3. Anushri Maheswari
-4. Shreeya Garg
+1. Laksh R Jain      : [LinkedIn](https://www.linkedin.com/in/laksh-jain-6b308323b/)
+2. Atman Pattanaik   : [LinkedIn](https://www.linkedin.com/in/atman-pattanaik-558b06285/)
+3. Anushri Maheswari : [LinkedIn](https://www.linkedin.com/in/anushri-maheshwari-453049285/)
+4. Shreeya Garg      : [LinkedIn](https://www.linkedin.com/in/shreeyag/)
 
 <hr>
 
