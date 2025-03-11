@@ -69,6 +69,7 @@ In today's fast-paced world, educators are burdened with numerous tasks ranging 
     </tr>
   </table>
 </div>
+<br>
 
 ### Student Interface
 <div align="center">
@@ -85,6 +86,19 @@ In today's fast-paced world, educators are burdened with numerous tasks ranging 
     </tr>
   </table>
 </div>
+<br>
+
+## Latest Version - v2.0.0
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/LakshRJain/Kaksha/releases/download/v1.0.0/Kaksha_v1.0.0.apk">
+        <img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Github" width="200">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ## 🛠️ Tech Stack
 - **Frontend**: Flutter, Dart
@@ -133,6 +147,9 @@ In today's fast-paced world, educators are burdened with numerous tasks ranging 
 ## 🪪 License
 
 Femunity is licensed under the MIT license. See [LICENSE](LICENSE) for more information.
+
+--- 
+
 <div align="center">
   <p>Made with ❤️ by Team Kaksha</p>
 </div>
