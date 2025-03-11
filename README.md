@@ -1,6 +1,6 @@
 # 📚 Kaksha: Revolutionizing Classroom Management 📚
 
-**Effortlessly Manage Classes and Reduce Teachers' Workload**
+**Effortlessly Manage Classes and Reduce Teachers Workload**
 
 <div align="center">
   <img src="https://i.imgur.com/CZvbxMW.png" alt="Kaksha Logo" width="310">
