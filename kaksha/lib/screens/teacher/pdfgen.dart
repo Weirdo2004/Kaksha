@@ -27,7 +27,7 @@ class _GeneratePdfScreenState extends State<GeneratePdfScreen> {
   /// Fetch Content from Gemini API
   Future<String> fetchContentFromGemini(String topic) async {
     const apiKey =
-        'AIzaSyCgK2Vlkv-aArK2a0wPusEewhx5WWk-oPU'; // Replace with your Gemini API Key
+        ''; // Replace with your Gemini API Key
     const url =
         'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=$apiKey';
 
