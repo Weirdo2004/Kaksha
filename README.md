@@ -12,7 +12,7 @@ Kaksha is an all-in-one classroom management solution designed to significantly 
 
 In today's fast-paced world, educators are burdened with numerous tasks ranging from managing assignments and attendance to providing personalized feedback. Kaksha addresses these challenges by integrating advanced technologies like AI, Bluetooth-based attendance systems, and automated grading, making teaching more focused, efficient, and less stressful.
 <div align="center">
-  <img src="![WhatsApp Image 2025-03-11 at 18 32 33_6bc0f75b](https://github.com/user-attachments/assets/9ffb3158-9eb3-4ae8-a9af-06ad516178a9)#" alt="Kaksha Logo" width="310">
+  <img src="https://i.imgur.com/CZvbxMW.png" alt="Kaksha Logo" width="310">
 </div>
 ## ✨ Key Features
 
