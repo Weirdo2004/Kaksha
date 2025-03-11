@@ -128,7 +128,7 @@ In today's fast-paced world, educators are burdened with numerous tasks ranging 
 
 ## 🪪 License
 
-Femunity is licensed under the MIT license. See [LICENSE.txt](LICENSE.txt) for more information.
+Femunity is licensed under the MIT license. See [LICENSE](LICENSE) for more information.
 <div align="center">
   <p>Made with ❤️ by Team Kaksha</p>
 </div>
