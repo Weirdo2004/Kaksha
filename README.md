@@ -8,7 +8,7 @@
 
 ## 🚀 Overview
 
-Kaksha is an all-in-one classroom management solution designed to significantly reduce the administrative workload for teachers while providing a seamless and engaging educational experience for students. The name "Kaksha" (कक्षा) means "classroom" in Hindi, embodying our mission to transform traditional classrooms into smart, efficient, and interactive learning environments.
+Kaksha is an all-in-one classroom management solution designed to significantly reduce the administrative workload for teachers while providing a seamless and engaging educational experience for students. The name "Kaksha" (कक्षा) means "classroom" in Hindi, embodying our mission to transform traditional classrooms into smart, efficient, and interactive learning environments, aligning with **UN SDG - 4 Quality Education.**
 
 In today's fast-paced world, educators are burdened with numerous tasks ranging from managing assignments and attendance to providing personalized feedback. Kaksha addresses these challenges by integrating advanced technologies like AI, Bluetooth-based attendance systems, and automated grading, making teaching more focused, efficient, and less stressful.
 
