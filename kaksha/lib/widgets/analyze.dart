@@ -69,9 +69,9 @@ class PDFUploadService {
     //print("Second Half Images: $secondHalf");
 
     Future<String> firstHalfText = _processImageBatch(
-        firstHalf, "AIzaSyAiH173s0PPDFWNtJpcuzPLdu3i_0mi8Ao", "API_1");
+        firstHalf, "", "API_1");
     Future<String> secondHalfText = _processImageBatch(
-        secondHalf, "AIzaSyB4mpffbJQfgCzdBX_z6dELHqSRI0hvg_I", "API_2");
+        secondHalf, "", "API_2");
 
     List<String> results = await Future.wait([firstHalfText, secondHalfText]);
 
@@ -137,7 +137,7 @@ class PDFUploadService {
 
   Future<String> sendToGeminiAPI(
       String assignmentText, String rubricText, String studentText) async {
-    const apiKey = 'AIzaSyDONNPmqMxTQ2gHdUvRdgAZPNKz_1c1YpQ';
+    const apiKey = '';
     const url =
         'https://generativelanguage.googleapis.com/v1beta/tunedModels/copy-of-analysis-model-pq5mo65ip7q1:generateContent?key=$apiKey';
 
