@@ -1,4 +1,4 @@
-# 📚 Kaksha: Revolutionizing Classroom Management 📚
+# 📚 Kaksha: Revolutionizing Classroom Management 
 
 **Effortlessly Manage Classes and Reduce Teachers Workload**
 
